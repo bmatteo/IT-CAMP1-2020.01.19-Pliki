@@ -1,0 +1,6 @@
+Cos,15,true,1.0,0
+Cos,14s,true,1.0,0
+Cos,57,true,1.0,0
+Cos,67,true,1.0a,0
+Cos,87,tlue,1.0,0
+Cos,19,,1.0,0
